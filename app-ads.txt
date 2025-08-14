@@ -1,5 +1,1 @@
-#即時換匯記帳
-google.com, pub-8840276860116384, DIRECT, f08c47fec0942fa0
-
-#記帳城市
 google.com, pub-8840276860116384, DIRECT, f08c47fec0942fa0
